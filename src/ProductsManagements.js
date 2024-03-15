@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// import mockProducts from '../mockData';
 
 const mockProducts = [
   { id: 1, name: 'Lamps', category: 'Category 1 ', price: 100, stock: 10 },
